@@ -12,7 +12,7 @@ namespace StringCalculators
             if (string.IsNullOrEmpty(numbers))
                 return 0;
 
-            var numbersArray = numbers.Trim().Split(',').Select(x => int.Parse(x));
+            var numbersArray = numbers.Trim().Split(new char[]{',', '\n',';'},StringSplitOptions.RemoveEmptyEntries).Select(x => int.Parse(x));
             return numbersArray.Aggregate((x, y) => x + y);
         }
     }
