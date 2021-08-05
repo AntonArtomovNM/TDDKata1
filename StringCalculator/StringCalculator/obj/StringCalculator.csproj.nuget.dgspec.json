@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "D:\\Programing\\SoftServe\\TDD Kata And Mob\\TDDKata1\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {}
   },
   "projects": {
@@ -17,29 +16,6 @@
         "configFilePaths": [
           "C:\\Users\\Win10Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-    "C:\\Users\\Юра\\Source\\Repos\\TDDKata12\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Юра\\Source\\Repos\\TDDKata12\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Юра\\Source\\Repos\\TDDKata12\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
-        "projectName": "StringCalculator",
-        "projectPath": "C:\\Users\\Юра\\Source\\Repos\\TDDKata12\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
-        "packagesPath": "C:\\Users\\Юра\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Юра\\Source\\Repos\\TDDKata12\\StringCalculator\\StringCalculator\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Юра\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
->>>>>>> 70765209611e3e0b534fbe8bdc640adc9d920b36
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -78,11 +54,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
->>>>>>> 70765209611e3e0b534fbe8bdc640adc9d920b36
         }
       }
     }

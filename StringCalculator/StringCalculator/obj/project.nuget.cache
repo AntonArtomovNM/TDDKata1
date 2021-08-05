@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "3Szp5TytESXhb+qsdlrazfSCSM20mUZhE6bAu0YdzmERMZLMPJIaSmNT5Ty50YtTwA0bt4n7goGcext/adpyLw==",
   "success": true,
   "projectFilePath": "D:\\Programing\\SoftServe\\TDD Kata And Mob\\TDDKata1\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
-=======
-  "dgSpecHash": "aDOkx22St7BMLsWb/5TZV1Uj7fsqE39kI2SH9a3b72Qb1U3l9+zbPzCQ+auGSspMaVahzbrbe8TooOaHiO4V8w==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Юра\\Source\\Repos\\TDDKata12\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
->>>>>>> 70765209611e3e0b534fbe8bdc640adc9d920b36
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Programing\\SoftServe\\TDD Kata And Mob\\TDDKata1\\StringCalculator\\StringCalculator\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
