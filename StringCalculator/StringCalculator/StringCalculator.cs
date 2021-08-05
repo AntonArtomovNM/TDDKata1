@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 
 namespace StringCalculators
@@ -19,13 +20,17 @@ namespace StringCalculators
                 delimiter.Add(char.Parse(numbers.Substring(2, 1)));
                 numbers = numbers.Split('\n').LastOrDefault();
             }
-            if(!delimiter.Contains('-'))
+            if(!delimiter.Contains('-')&& numbers.Contains('-'))
             {
                 reg = new Regex(@"-\d+");
-                var match = reg.Match(numbers);
-                throw new ArgumentException($"Negatives not allowed: {match.Value}");
+                var match = reg.Matches(numbers);
+                StringBuilder sb = new StringBuilder("Negatives not allowed: ");
+                foreach (Match item in match)
+                {
+                    sb.Append($"{item.Value}, ");
+                }
+                throw new ArgumentException(sb.ToString());
             }
-            delimiter.Add('-');
             var numbersArray = numbers.Trim().Split(delimiter.ToArray(),
                                                 StringSplitOptions.RemoveEmptyEntries)
                                                 .Select(x => int.Parse(x));

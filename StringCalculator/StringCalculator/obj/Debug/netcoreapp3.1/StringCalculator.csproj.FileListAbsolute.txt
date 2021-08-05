@@ -37,3 +37,16 @@ D:\Programing\SoftServe\TDD Kata And Mob\TDDKata1\StringCalculator\StringCalcula
 D:\Programing\SoftServe\TDD Kata And Mob\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
 D:\Programing\SoftServe\TDD Kata And Mob\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
 D:\Programing\SoftServe\TDD Kata And Mob\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.genruntimeconfig.cache
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.exe
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.deps.json
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.json
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.dev.json
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csprojAssemblyReference.cache
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\Юра\Source\Repos\TDDKata13\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.genruntimeconfig.cache
