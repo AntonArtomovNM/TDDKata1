@@ -1,0 +1,13 @@
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.exe
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.deps.json
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.json
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.dev.json
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.dll
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.AssemblyReference.cache
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
+D:\Programming\ProjectsC#\TDDKata1\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.genruntimeconfig.cache
