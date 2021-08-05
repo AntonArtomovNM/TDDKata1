@@ -14,12 +14,19 @@ namespace StringCalculators
 
             Regex reg = new Regex(@"//[\W\w]\n[\W\w]+");
             List<char> delimiter = new List<char>() { ',', '\n', ';' };
-            if (reg.IsMatch(numbers));
-                delimiter.Add(Char.Parse(numbers.Substring(2, 3)));
-
-            string str = numbers.Split('\n').LastOrDefault();
-
-            var numbersArray = str.Trim().Split(delimiter.ToArray(),
+            if (reg.IsMatch(numbers))
+            {
+                delimiter.Add(char.Parse(numbers.Substring(2, 1)));
+                numbers = numbers.Split('\n').LastOrDefault();
+            }
+            if(!delimiter.Contains('-'))
+            {
+                reg = new Regex(@"-\d+");
+                var match = reg.Match(numbers);
+                throw new ArgumentException($"Negatives not allowed: {match.Value}");
+                delimiter.Add('-');
+            }
+            var numbersArray = numbers.Trim().Split(delimiter.ToArray(),
                                                 StringSplitOptions.RemoveEmptyEntries)
                                                 .Select(x => int.Parse(x));
             return numbersArray.Aggregate((x, y) => x + y);
