@@ -24,8 +24,8 @@ namespace StringCalculators
                 reg = new Regex(@"-\d+");
                 var match = reg.Match(numbers);
                 throw new ArgumentException($"Negatives not allowed: {match.Value}");
-                delimiter.Add('-');
             }
+            delimiter.Add('-');
             var numbersArray = numbers.Trim().Split(delimiter.ToArray(),
                                                 StringSplitOptions.RemoveEmptyEntries)
                                                 .Select(x => int.Parse(x));
